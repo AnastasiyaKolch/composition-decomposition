@@ -1,0 +1,39 @@
+.li {
+  display: inline;
+  cursor: pointer;
+  margin: 20px;
+  font-weight: bold;
+
+}
+
+li {
+  list-style-type: none;
+  margin: 20px;
+}
+
+.prompt {
+  font: 60% sans-serif;
+  margin-left: 2vw;
+}
+
+.search, img {
+  border: 2px solid black;
+  width: 50%;
+  margin-left: 20px;
+  max-width: 1000px;
+}
+
+img {
+  height: 10%;
+  border: 0;
+  
+}
+
+.footBlocks {
+  width: 180px;
+  margin: 20px;
+}
+
+.block {
+  display: flex;
+}
